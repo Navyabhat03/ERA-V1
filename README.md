@@ -1,4 +1,4 @@
-# ERA V1 Session 6
+# ERA V1 Session 5
 
 ## Create and Train a Neural Network in Python
 
